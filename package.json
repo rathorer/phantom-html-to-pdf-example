@@ -1,0 +1,33 @@
+{
+  "name": "phantom-html-to-pdf-example",
+  "version": "1.0.0",
+  "description": "phantom-html-to-pdf example and demo implementation to print pdf from html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rathorer/phantom-html-to-pdf-example.git"
+  },
+  "keywords": [
+    "phantom-html-to-pdf",
+    "example\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[3~",
+    "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+    "demo",
+    "test",
+    "implementation"
+  ],
+  "author": "Rahul Rathore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rathorer/phantom-html-to-pdf-example/issues"
+  },
+  "homepage": "https://github.com/rathorer/phantom-html-to-pdf-example#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "phantom-html-to-pdf": "^0.5.4",
+    "proxy-middleware": "^0.15.0",
+    "pdfGenerator": "file:pdfGenerator"
+  }
+}
